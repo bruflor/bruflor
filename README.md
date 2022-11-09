@@ -1,12 +1,16 @@
 ## Hello, hello 🖖
 
-I'm Bruna Flôr, a brazilian and latin american woman. I’m a junior frontend developer with a problem-solving attitude and a strong background in Design, who after over 6 years of experience decided to change career and dive deep into the web development world. I have previous four years of experience in HTML and CSS and about a year of experience in TypeScript, JavaScript and ReactJS. 
+My name is Bruna Flôr, I'm a brazilian and latin american woman.<br>
+I’m a **junior frontend developer** with a problem-solving attitude and a strong background in Design, who after over 6 years of experience decided to change career and dive deep into the web development world. I have previous four years of experience in HTML and CSS and about a year of experience in TypeScript, JavaScript and ReactJS. 
+<br><br>Pronoum: She/Her
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruflor&show_icons=true&theme=vue-dark" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue-dark" />
 </div>
+
 <br>
+
 <div style="display:inline_block">
 <img alt="reactjs logo" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img alt="javaScript logo" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -17,4 +21,7 @@ I'm Bruna Flôr, a brazilian and latin american woman. I’m a junior frontend d
 <img alt="bootstrap logo" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
 </div>
 
-##
+## 
+### You could reach me at:
+<a target="_blank" href="https://www.linkedin.com/in/brunaflor/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a target="_blank" href="mailto:brn.flor@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
