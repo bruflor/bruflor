@@ -22,6 +22,6 @@ I’m a **junior frontend developer** with a problem-solving attitude and a stro
 </div>
 
 ## 
-### You could reach me at:
+### Reach me at:
 <a target="_blank" href="https://www.linkedin.com/in/brunaflor/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a target="_blank" href="mailto:brn.flor@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
