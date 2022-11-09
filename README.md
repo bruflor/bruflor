@@ -1,7 +1,7 @@
 ## Hello, hello 🖖
 
 My name is Bruna Flôr, I'm a brazilian and latin american woman.<br>
-I’m a **junior frontend developer** with a problem-solving attitude and a strong background in Design, who after over 6 years of experience decided to change career and dive deep into the web development world. I have previous four years of experience in HTML and CSS and about a year of experience in TypeScript, JavaScript and ReactJS. 
+I’m a **junior frontend developer** with a problem-solving attitude and a strong background in Design, who after over 6 years of experience decided to change career and dive deep into the web development world. I have previous four years of experience in JavaScript, HTML and CSS, and about a year of experience in TypeScript, and ReactJS. 
 <br><br>Pronoum: She/Her
 
 <div>
