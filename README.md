@@ -6,7 +6,7 @@ I'm a highly motivated **frontend developer** with over 6 years of experience in
 
 <div>
 <a href="https://github.com/bruflor"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruflor&show_icons=true&theme=vue-dark" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue-dark" /></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruflor&layout=compact&theme=vue-dark" /></a>
 </div>
 
 <br>
