@@ -1,6 +1,6 @@
 ## Hello, hello 🖖
 
-My name is Bruna Flôr, a Brasilian woman currently living at Portugal. I'm a front-end Developer with a Designer's Touch! Since transitioning to a specialized Frontend Developer role in early 2023, I've combined my 6+ years of web design expertise with hands-on development experience to create visually stunning and user-friendly web applications. Skilled in ReactJS, TypeScript, and JavaScript. However, I`m open to learning new languages and frameworks and always looking forward to improving my current skills
+My name is Bruna Flôr, a Brazilian woman currently living in Portugal. I'm a front-end Developer with a Designer's Touch! Since transitioning to a specialized Frontend Developer role in early 2023, I've combined my 6+ years of web design expertise with hands-on development experience to create visually stunning and user-friendly web applications. Skilled in ReactJS, TypeScript, and JavaScript. However, I`m open to learning new languages and frameworks and always looking forward to improving my current skills
 <br><br>Pronoum: She/Her
 
 <div>
