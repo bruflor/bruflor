@@ -1,7 +1,6 @@
 ## Hello, hello 🖖
 
-My name is Bruna Flôr, I'm a brazilian and latin american woman current living at Portugal.<br>
-I'm a highly motivated **frontend developer** with over 6 years of experience in design. Skilled in ReactJS, TypeScript, JavaScript, and Jest. Currently working as a frontend developer on a CleanTech, developing a web app for carbon compensation, from the layout to the production step. Passionate about creating visually appealing web applications that are both functional and user-friendly.
+Frontend Developer with a Designer's Touch! Since transitioning to a specialized Frontend Developer role in early 2023, I've combined my 6+ years of web design expertise with hands-on development experience to create visually stunning and user-friendly web applications. Skilled in ReactJS, TypeScript, and JavaScript. However, I`m open to learn new languages and frameworks and always looking forward to improving my current skills
 <br><br>Pronoum: She/Her
 
 <div>
