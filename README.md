@@ -3,7 +3,7 @@
 
 ## Hello, hello 🖖
 
-Hi, **I'm Bruna Flôr**! A Brazilian woman currently living in Portugal, and a front-end developer with 2 years of experience, focus in **ReactJS** and TypeScript. 👩‍💻 I'm passionate about building user-friendly and visually appealing web applications, and I'm currently expanding my skills by learning back-end development, venturing into the world of **C#**. My 6 years of experience in design deeply influences my approach to development, ensuring a strong focus on user experience and a good carer in aesthetics details.
+Hi, **I'm Bruna Flôr**! A Brazilian woman currently living in Portugal, and a front-end developer with 2+ years of experience, focus in **ReactJS** and TypeScript. 👩‍💻 I'm passionate about building user-friendly and visually appealing web applications, and I'm currently expanding my skills by learning back-end development, venturing into the world of **C#**. My 6 years of experience in design deeply influences my approach to development, ensuring a strong focus on user experience and a good carer in aesthetics details.
 
 I'm also currently pursuing a **degree in Analysis and System Development**, which I expect to complete by the end of 2025.
 
