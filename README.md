@@ -13,7 +13,9 @@ I'm also currently pursuing a **degree in Analysis and System Development**, whi
 - **Painting the world**: I enjoy expressing myself through watercolor and 3D miniature painting. 🎨
 - **Spending time with Nala**: My dog is my best friend, and we love going on adventures together. 🐶
 - **Enjoying a cup of tea**: I'm a tea enthusiast and love exploring different varieties. 🍵
-- **Giving back to the community**: As an immigrant myself, I volunteer at an immigrant association to support others in their journey. 🤝
+- **Giving back to the community**:
+    - As an immigrant myself, I volunteer at an immigrant association to support others in their journey. 🤝
+    - I also actively participate in a women in tech group, where I contribute my knowledge and learn from other talented individuals. 👩‍💻
 
 **I'm always open to collaborating on interesting projects and learning from others**. Feel free to connect!
 
