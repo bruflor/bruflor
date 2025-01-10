@@ -5,11 +5,14 @@
 
 Hi, **I'm Bruna Flôr**! A Brazilian woman currently living in Portugal, and a front-end developer with 2 years of experience, focus in **ReactJS** and TypeScript. 👩‍💻 I'm passionate about building user-friendly and visually appealing web applications, and I'm currently expanding my skills by learning back-end development, venturing into the world of **C#**. My 6 years of experience in design deeply influences my approach to development, ensuring a strong focus on user experience and a good carer in aesthetics details.
 
+I'm also currently pursuing a **degree in Analysis and System Development**, which I expect to complete by the end of 2025.
+
 **Outside of work**, you can usually find me:
 
 - **Lost in a good book**: I'm passionate about literature and always have a book in hand. 📚
 - **Painting the world**: I enjoy expressing myself through watercolor and 3D miniature painting. 🎨
 - **Spending time with Nala**: My dog is my best friend, and we love going on adventures together. 🐶
+- **Enjoying a cup of tea**: I'm a tea enthusiast and love exploring different varieties. 🍵
 - **Giving back to the community**: As an immigrant myself, I volunteer at an immigrant association to support others in their journey. 🤝
 
 **I'm always open to collaborating on interesting projects and learning from others**. Feel free to connect!
