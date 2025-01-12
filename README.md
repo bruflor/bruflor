@@ -11,7 +11,6 @@ I'm also currently pursuing a **degree in Analysis and System Development**, whi
 
 - **Lost in a good book**: I'm passionate about literature and always have a book in hand. 📚
 - **Painting the world**: I enjoy expressing myself through watercolor and 3D miniature painting. 🎨
-- **Spending time with Nala**: My dog is my best friend, and we love going on adventures together. 🐶
 - **Enjoying a cup of tea**: I'm a tea enthusiast and love exploring different varieties. 🍵
 - **Giving back to the community**:
     - As an immigrant myself, I volunteer at an immigrant association to support others in their journey. 🤝
